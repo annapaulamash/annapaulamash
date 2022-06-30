@@ -33,7 +33,8 @@
  <a href="https://discord.gg/annamash#1771" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:annapmash@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/annapmash/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="[https://www.linkedin.com/in/annapmash](https://twitter.com/Annamash3)/" target="_blank"><img src="https://dev.to/envoy_/150-badges-for-github-pnk#office:~:text=https%3A//img.shields.io/badge/Twitter%2D1DA1F2%3Fstyle%3Dfor%2Dthe%2Dbadge%26logo%3Dtwitter%26logoColor%3Dwhite" target="_blank"></a> 
+  <a href="https://twitter.com/Annamash3"><img src="https://img.shields.io/badge/@Annamash3-%230d1117.svg?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2"/></a> 
+  <a href="https://open.spotify.com/user/becty"><img src="https://img.shields.io/badge/Spotify-%230d1117?style=for-the-badge&logo=spotify&logoColor=#1ED760"/></a>
 
    <div>
    
