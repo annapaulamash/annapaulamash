@@ -37,7 +37,5 @@
   <a href="https://open.spotify.com/user/becty"><img src="https://img.shields.io/badge/Spotify-%230d1117?style=for-the-badge&logo=spotify&logoColor=#1ED760"/></a>
 
    <div>
-   
-  ![Snake animation](https://github.com/annapaulamash/annapaulamash/blob/output/github-contribution-grid-snake.svg)
- 
+    
 </div>
