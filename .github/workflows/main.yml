@@ -6,9 +6,9 @@ Marketplace
 Explore
  
 @annapaulamash 
-rafaballerini
+annapaulamash
 /
-rafaballerini
+annapaulamash
 Public
 Code
 Issues
@@ -20,9 +20,9 @@ Projects
 Wiki
 Security
 Insights
-rafaballerini/.github/workflows/cobrinha.yml
-@rafaballerini
-rafaballerini Update cobrinha.yml
+annapaulamash/.github/workflows/cobrinha.yml
+@annapaulamash
+annapaulamash Update cobrinha.yml
 Latest commit d2470b3 on 29 May 2021
  History
  1 contributor
@@ -44,7 +44,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: rafaballerini
+          github_user_name: annapaulamash
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
