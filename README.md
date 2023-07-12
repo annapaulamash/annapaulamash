@@ -3,7 +3,7 @@
 
 - 👩‍💻 Atualmente trabalho com front-end
 - 🎓 Estudo Gestão de T.I
-- 🔥 Meu insta: @annapaulamash
+- 🔥 Meu insta: @annapmash
 - ✉️ Contato e-mail: annapmash@hotmail.com
 - 💙 Espero Trocar muitas experiencias com vc 💙
 
