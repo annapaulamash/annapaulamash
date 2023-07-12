@@ -5,7 +5,7 @@
 - 🎓 Estudo Gestão de T.I
 - 🔥 Meu insta: @annapmash
 - ✉️ Contato e-mail: annapmash@hotmail.com
-- 💙 Espero Trocar muitas experiencias com vc 💙
+- 💙 Espero Trocar muitas experiencias com vc 
 
 ## Oiii eu sou a Anna Paula Mash, criadora de conteúdo de programação e tecnologia!
 <div align="center">
