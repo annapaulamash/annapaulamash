@@ -1,8 +1,8 @@
 ### Olá seja bem vindo, eu sou a Ana Paula Mash
 
 
-- 👩‍💻 Atualmente trabalho com front-end
-- 🎓 Estudo Gestão de T.I
+- 👩‍💻 Back-end
+- 🎓 Cursando Gestão de T.I
 - 📸 Meu insta: @annapmash
 - ✉️ Contato e-mail: annapmash@hotmail.com
 - 🩵 Espero Trocar muitas experiencias com vc 
